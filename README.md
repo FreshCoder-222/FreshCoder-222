@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am YOGALAKSHMI, and I’m just starting my adventure in the world of programming, I’m just starting my coding journey and I’m loving every minute of it. I’m passionate about technology and eager to learn as much as I can. Whether it’s building websites, apps, or learning new programming languages, I’m all in! 🌟
 
 
 - 🔭 I’m currently working on ...
